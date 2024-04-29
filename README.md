@@ -44,9 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/Nagasaichowdary/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/155174528/3b219e9a-3643-46a1-8984-aa7a7b91e778)
 
-### Name:
-### Register Number:
+### Name:P.Aditya Naga Sai
+### Register Number:212223110036
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
